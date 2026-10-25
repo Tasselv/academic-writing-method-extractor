@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术写作方法与风格提取"
+  short_description: "按学科与文体细读学术文章，提取有出处、可复核、可迁移的写作方法"
+  default_prompt: "请用 $academic-writing-method-extractor 分析这些文章，提取有出处和适用条件的写作方法与风格手册。"
